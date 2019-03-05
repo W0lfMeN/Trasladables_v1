@@ -1,6 +1,5 @@
 # Tarea presencial PROG05-08. Curso 2018/2019
-## Profesor: José Ramón Jiménez Reyes
-
+## Profesor: Andrés Rubio del Río
 Tu tarea consiste en implementar una aplicación que leerá un fichero con objetos trasladables, lo cargará en una lista (ArrayList) y los listará, generará 1 punto, 1 línea y una circunferencia que añadirá a la lista, las listará, recorrerá la lista y para cada objeto trasladable lo trasladará un desplazamiento aleatorio en x y en y e insertará el nuevo objeto trasladado en la lista para finalmente volver a mostrar toda la lista y guardará todos los objetos de la lista en el fichero. Para ello te recomiendo seguir las siguientes pautas:
 
 - El diagrama de clases que debes implementar es el siguiente:
